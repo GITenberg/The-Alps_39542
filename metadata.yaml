@@ -1,0 +1,44 @@
+_repo: The-Alps_39542
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McCormick, A. D. (Arthur David)
+    aliases:
+    - McCormick, A.D.
+    - McCormick, Arthur David
+    - M'Cormick, A. D. (Arthur David)
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '40073'
+    url: http://www.gutenberg.org/2009/agents/40073
+covers:
+- cover_type: archival
+  image_path: 39542-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conway, William Martin, Sir
+    aliases:
+    - Conway of Allington, William Martin Conway, Baron
+    - Conway, Sir William Martin
+    - Conway, W. Martin (William Martin), Sir
+    - Conway, Martin, Sir
+    birthdate: 1856
+    deathdate: 1937
+    gutenberg_agent_id: '7347'
+    url: http://www.gutenberg.org/2009/agents/7347
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Conway
+description: ''
+gutenberg_issued: '2012-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39542'
+  lccn: 05004485
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alps -- Description and travel'
+- !lcc 'DQ'
+title: The Alps
+url: http://www.gutenberg.org/ebooks/39542
