@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7347
     wikipedia: http://en.wikipedia.org/wiki/Martin_Conway
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39542#The-Alps
 gutenberg_issued: '2012-04-27'
 gutenberg_type: Text
 identifiers:
